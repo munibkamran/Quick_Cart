@@ -7,7 +7,7 @@ import img6 from '../assets/macbook_image.png'
 import img7 from '../assets/sony_airbuds_image.png'
 import img8 from '../assets/projector_image.png'
 import img9 from '../assets/asus_laptop_image.png'
-import img10 from '../assets/PlayStation_image.png'
+import img10 from '../assets/playstation_image.png'
 
 
 import { LiaStarSolid } from "react-icons/lia";
